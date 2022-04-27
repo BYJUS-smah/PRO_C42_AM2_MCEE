@@ -49,7 +49,7 @@ function changePosition(x,y){
 }
 
 
-//Function read position
+//Función para leer la posición.
 function readposition(data){
     
 }

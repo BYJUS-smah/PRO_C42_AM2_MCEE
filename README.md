@@ -1,2 +1,2 @@
-# C37-Tablet- Boilerplate
-Boiler plate for Dog moving aysnchronously
+# C41-Plantilla-Código
+Plantilla del código para mover al perro asincrónicamente.
